@@ -13,6 +13,7 @@ import static java.net.http.HttpResponse.asString;
 
 /**
  * New HttpClient API using blocking and async calls.
+ * @author lkoniecki
  */
 public class Http2Example {
     public static final String URL = "https://http2.akamai.com/demo/h2_demo_frame.html";

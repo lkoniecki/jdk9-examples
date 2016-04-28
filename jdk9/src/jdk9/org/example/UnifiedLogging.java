@@ -5,7 +5,8 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by lukasz.koniecki on 2016-04-21.
+ * Class to show how unified logging in JDK9 works.
+ * @author lkoniecki
  */
 public class UnifiedLogging {
     //cache

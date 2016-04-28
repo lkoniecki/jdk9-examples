@@ -1,7 +1,8 @@
 package org.example;
 
 /**
- * Example how to get process id without JNA library
+ * Example how to get process id without JNA library.
+ * @author lkoniecki
  */
 public class ProcessInfo {
     public static void main(String[] args) {

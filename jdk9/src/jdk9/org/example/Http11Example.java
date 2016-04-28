@@ -7,6 +7,7 @@ import java.net.URL;
 
 /**
  * Old HttpURLConnection style GET
+ * @author lkoniecki
  */
 public class Http11Example {
     public static void main(String[] args) throws Exception {
