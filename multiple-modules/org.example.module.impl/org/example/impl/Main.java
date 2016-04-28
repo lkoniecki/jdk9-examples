@@ -11,5 +11,6 @@ public class Main {
     public static void main(String[] args) {
         DummyDao dao = new MyDummyDao();
         dao.save(new DummyEntity());
+        System.out.println("Saved");
     }
 }
