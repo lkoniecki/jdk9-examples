@@ -35,11 +35,9 @@ Example how to create, compile and package multi-module project.
 * org.example.module.impl module. Set `Content Root` to `$PROJECT_DIR\multiple-modules\org.example.module.impl` directory.
 
 ![impl module](https://github.com/lkoniecki/jdk9-examples/blob/images/impl-module.png)
-
 8. Configure dependencies for `org.example.module.impl` module and add `org.example.module.api` dependency.
 
 ![impl module dependencies](https://github.com/lkoniecki/jdk9-examples/blob/images/impl-module-dep.png)
-
 9. Set `Java Compiler` parameters
 
 ![Java Compiler parameters](https://github.com/lkoniecki/jdk9-examples/blob/images/java-compiler.png)
