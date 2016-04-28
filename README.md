@@ -28,7 +28,7 @@ Example how to create, compile and package multi-module project.
 7. Add 3 new Java modules:
 * jdk9 module. Set `Content Root` to `$PROJECT_DIR\jdk9\src\jdk9` directory.
 
-![jdk9 module](https://github.com/lkoniecki/jdk9-examples/blob/images/jdk9-module.pnghttps://github.com/lkoniecki/jdk9-examples/blob/images/jdk9-module.png)
+![jdk9 module](https://github.com/lkoniecki/jdk9-examples/blob/images/jdk9-module.png)
 * org.example.module.api module. Set `Content Root` to `$PROJECT_DIR\multiple-modules\org.example.module.api` directory.
 
 ![api module](https://github.com/lkoniecki/jdk9-examples/blob/images/api-module.png)
