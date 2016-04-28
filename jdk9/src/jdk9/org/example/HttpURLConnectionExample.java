@@ -9,7 +9,7 @@ import java.net.URL;
  * Old HttpURLConnection style GET
  * @author lkoniecki
  */
-public class Http11Example {
+public class HttpURLConnectionExample {
     public static void main(String[] args) throws Exception {
         URL url = new URL("https://http2.akamai.com/demo/h2_demo_frame.html");
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();

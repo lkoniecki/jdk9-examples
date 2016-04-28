@@ -15,7 +15,7 @@ import static java.net.http.HttpResponse.asString;
  * New HttpClient API using blocking and async calls.
  * @author lkoniecki
  */
-public class Http2Example {
+public class HttpClientExample {
     public static final String URL = "https://http2.akamai.com/demo/h2_demo_frame.html";
 
     public static String doGet() throws IOException, InterruptedException, URISyntaxException {
